@@ -1,0 +1,186 @@
+[
+    {
+        "search_query": "best hiking trails near me",
+        "retrieved_results": [
+            {
+                "title": "Hiking Trailhead",
+                "description": "Hiking Trailhead offers some of the best hiking trails in the area. Come explore the great outdoors with us!",
+                "url": "https://www.hikingtrailhead.com",
+                "relevant": true 
+            },
+            {
+                "title": "Mountain Biking Trails",
+                "description": "If you're looking for mountain biking trails, you've come to the right place. We have some of the best trails in the area!",
+                "url": "https://www.mountainbikingtrails.com",
+                "relevant": false
+            },
+            {
+                "title": "City Parks",
+                "description": "City parks offer a variety of outdoor activities, including hiking trails, playgrounds, and picnic areas. Find a park near you!",
+                "url": "https://www.cityparks.com",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "search_query": "best sushi restaurants in town",
+        "retrieved_results": [
+            {
+                "title": "Sushi House",
+                "description": "Sushi House is a family-owned sushi restaurant in the heart of downtown. Come try our famous sushi rolls!",
+                "url": "https://www.sushihouse.com",
+                "relevant": true
+            },
+            {
+                "title": "Joe's Burgers",
+                "description": "Joe's Burgers serves up some of the best burgers in town, but unfortunately we don't have any sushi on the menu.",
+                "url": "https://www.joesburgers.com",
+                "relevant": false
+            },
+            {
+                "title": "Sushi Palace",
+                "description": "Sushi Palace has been serving up delicious sushi for over 50 years. Come experience the art of sushi making!",
+                "url": "https://www.sushipalace.com",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "search_query": "best beaches in California",
+        "retrieved_results": [
+            {
+                "title": "Malibu Beach",
+                "description": "Malibu Beach is one of the most beautiful beaches in California, with miles of pristine white sand and crystal clear water.",
+                "url": "https://www.malibubeach.com",
+                "relevant": true
+            },
+            {
+                "title": "Beachfront Hotels",
+                "description": "If you're looking for a beachfront hotel in California, we've got you covered. Check out our top picks for the best hotels on the beach!",
+                "url": "https://www.beachfronthotels.com",
+                "relevant": false
+            },
+            {
+                "title": "Santa Monica Beach",
+                "description": "Santa Monica Beach is a popular destination for locals and tourists alike, with plenty of shops, restaurants, and activities to enjoy.",
+                "url": "https://www.santamonicabeach.com",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "search_query": "best yoga studios in New York",
+        "retrieved_results": [
+            {
+                "title": "Bikram Yoga",
+                "description": "Bikram Yoga is a hot yoga studio that offers a range of classes for all levels. Come sweat it out with us!",
+                "url": "httpswww.bikramyoganyc.com",
+                "relevant": true
+            },
+            {
+                "title": "Gym Memberships",
+                "description": "If you're looking for a gym membership in New York, we've got you covered. Check out our top picks for the best gyms in the city!",
+                "url": "https://www.gymmemberships.com",
+                "relevant": false
+            },
+            {
+                "title": "YogaWorks",
+                "description": "YogaWorks is a popular yoga studio with locations throughout the city. Come try our signature classes!",
+                "url": "https://www.yogaworks.com",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "search_query": "best pizza places in Chicago",
+        "retrieved_results": [
+            {
+                "title": "Lou Malnati's Pizzeria",
+                "description": "Lou Malnati's Pizzeria is a Chicago institution, known for its deep dish pizza and family-friendly atmosphere.",
+                "url": "https://www.loumalnatis.com",
+                "relevant": true
+            },
+            {
+                "title": "Burger Joint",
+                "description": "If you're in the mood for a burger, we've got you covered. Unfortunately, we don't serve pizza!",
+                "url": "https://www.burgerjoint.com",
+                "relevant": false
+            },
+            {
+                "title": "Giordano's",
+                "description": "Giordano's is another famous deep dish pizza spot in Chicago. Come try our stuffed pizza!",
+                "url": "https://www.giordanos.com",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "search_query": "best museums in London",
+        "retrieved_results": [
+            {
+                "title": "British Museum",
+                "description": "The British Museum is one of the world's greatest museums, with a collection that spans over 2 million years of human history.",
+                "url": "https://www.britishmuseum.org",
+                "relevant": true
+            },
+            {
+                "title": "National Gallery",
+                "description": "The National Gallery is home to some of the world's greatest masterpieces, including works by Van Gogh, Rembrandt, and Leonardo da Vinci.",
+                "url": "https://www.nationalgallery.org.uk",
+                "relevant": true
+            },
+            {
+                "title": "Science Museum",
+                "description": "The Science Museum is a must-visit for anyone interested in science and technology. Come explore our interactive exhibits!",
+                "url": "https://www.sciencemuseum.org.uk",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "search_query": "best coffee shops in San Francisco",
+        "retrieved_results": [
+            {
+                "title": "Blue Bottle Coffee",
+                "description": "Blue Bottle Coffee is a popular coffee roaster with locations throughout San Francisco. Come try our single-origin coffee!",
+                "url": "https://www.bluebottlecoffee.com",
+                "relevant": true
+            },
+            {
+                "title": "The Golden Gate Bakery",
+                "description": "The Golden Gate Bakery is famous for its egg tarts and other Chinese pastries, but unfortunately we don't serve coffee!",
+                "url": "https://www.goldengatebakery.com",
+                "relevant": false
+            },
+            {
+                "title": "Ritual Coffee Roasters",
+                "description": "Ritual Coffee Roasters is another popular coffee roaster in San Francisco, known for its carefully sourced and expertly roasted coffee. Come see what sets us apart!",
+                "url": "https://www.ritualcoffee.com",
+                "relevant": true
+            }
+        ]
+    },
+    {
+        "search_query": "best beaches in Hawaii",
+        "retrieved_results": [
+            {
+                "title": "Waikiki Beach",
+                "description": "Waikiki Beach is one of the most popular beaches in Hawaii, with its golden sand, turquoise waters, and stunning views of Diamond Head.",
+                "url": "https://www.gohawaii.com/islands/oahu/regions/honolulu/waikiki-beach",
+                "relevant": true
+            },
+            {
+                "title": "Maui Beach",
+                "description": "Maui Beach is another popular destination in Hawaii, known for its crystal-clear waters and abundant marine life.",
+                "url": "https://www.gohawaii.com/islands/maui/places-to-stay/beaches",
+                "relevant": true
+            },
+            {
+                "title": "Hawaii Beach Rentals",
+                "description": "Looking for a great beach rental in Hawaii? We've got you covered! Check out our selection of properties today.",
+                "url": "https://www.hawaiibeachrentals.com",
+                "relevant": false
+            }
+        ]
+    }
+]
