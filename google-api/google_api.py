@@ -4,8 +4,8 @@ import json
 
 
 
-API_KEY = 'ADD YOUR API KEY HERE'
-SEARCH_ENGINE_KEY = 'ADD YOUR SEARCH ENGINE KEY HERE'
+API_KEY = 'ADD_YOUR_API_KEY_HERE'
+SEARCH_ENGINE_KEY = 'ADD_YOUR_SEARCH_ENGINE_KEY_HERE'
 
 
 with open('./data/children-queries.txt', 'r') as f:

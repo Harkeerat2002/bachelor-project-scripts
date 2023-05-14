@@ -26,6 +26,26 @@ In other words, it measures how similar two sets or objects are by comparing the
 
 The Jaccard similarity coefficient can be used for various purposes, such as comparing text documents, binary vectors, or images. It is commonly used in data mining and information retrieval to compare the similarity of two sets of data.
 
+## Machine Learning Model Implementation:
+Basic Machine Learning models are implemented to classify the results. The results are classified into two categories: *Relevant* and *Irrelevant*. This is done by spliting the training data into features and a targer variable using Pandas DataFrame indexing. 
+
+The text data is preprocessed using CountVectorizer from the Scikit-learn library to convert the text data into numerical features that can be used to train a machine learning model. The text data is transformed by creating a vocabulary of words and then counting the number of times each word appears in each document (user_query and snippet).
+
+The data is then split into training and testing sets using Scikit-learn's train_test_split function. The data is divided into a training set and a testing set so that the model can be trained on a subset of the data and evaluated on the remaining unseen data.
+
+A logistic regression model is then trained on the training data using Scikit-learn's LogisticRegression function. The model is fit to the training data and then used to predict the target variable for the testing data.
+
+The performance of the model is evaluated on the testing data using Scikit-learn's classification_report function. This function returns several metrics such as precision, recall, and F1 score that can be used to evaluate the performance of the model.
+
+Finally, the trained model and CountVectorizer are saved using the numpy.save function. These saved files can be used to make predictions on new data without having to retrain the model and preprocess the data.
+
+The code can be found in `search_relevance.ipynb` notebook. Along with that the `predicting_relevance.py` contains the code to predict the relevance of the results, by using the trained module.
+
+## Scripts:
+- `search_relevance.ipynb`
+- `predicting_relevance.py`
+- `search_results.py`
+- `search_results.csv`
 
 ## Python Libraries Needed:
 I am using Python 3.8.5. With Python installed, I am using Conda to manage the environment. The following libraries are needed to run the scripts:

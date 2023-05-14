@@ -1,5 +1,5 @@
 def JaccardSimilarity(a, b):
-    a = set(a["result"][0].split())
+    a = set(a.split())
     b = set(b.split())
     intersection = len(a.intersection(b))
     union = len(a.union(b))

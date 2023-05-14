@@ -1,7 +1,7 @@
 import openai
 import csv
 
-openai.api_key = "ADD YOUR API KEY HERE"
+openai.api_key = "YOUR_API_KEY"
 
 with open('../results/Children-Queries.txt', 'r') as f:
     queries = f.read().splitlines()
