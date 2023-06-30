@@ -1,0 +1,47 @@
+Cosine Similarity Statistics:
+	Average =  0.29629571650045594
+	Max =  0.9412657491818057
+	Min =  0
+	Median =  0.29617443887954614
+Euclidean Similarity Statistics:
+	Average =  0.4622662584221829
+	Max =  0.7447476031887806
+	min =  0
+	Median =  0.4573634912790066
+Jaccard Similarity Statistics:
+	Average =  0.09091836722083915
+	Max =  0.42
+	min =  0
+	Median =  0.0784313725490196
+Pearson Correlation Statistics:
+	Average =  -0.32068579594216867
+	Max =  0.9494710591747306
+	min =  -0.9551913358642539
+	Median =  -0.34204092730332786
+Query Length Statistics:
+	Google:
+		Average =  151.43636363636364
+		Max =  162.2
+		min =  132.8
+		Median =  153.8
+	ChatGPT:
+		Average =  343.8051948051948
+		Max =  1321
+		min =  81
+		Median =  237
+NER Statistics:
+	Google:
+		Average: 18.22077922077922
+		Top 5: [('DATE', 304), ('ORG', 237), ('GPE', 236), ('PERSON', 227), ('CARDINAL', 211)]
+	ChatGPT:
+		Average: 6.116883116883117
+		Top 5: [('GPE', 108), ('ORG', 105), ('CARDINAL', 71), ('PERSON', 49), ('LOC', 30)]
+Sentiment Statistics:
+	ChatGPT:
+		Negative Sentiment: Average = 0.03, Max = 0.20, Min = 0.00, Median = 0.00
+		Neutral Sentiment: Average = 0.89, Max = 1.00, Min = 0.61, Median = 0.92
+		Positive Sentiment: Average = 0.08, Max = 0.29, Min = 0.00, Median = 0.08
+	Google:
+		Negative Sentiment: Average = 0.02, Max = 0.53, Min = 0.00, Median = 0.00
+		Neutral Sentiment: Average = 0.91,	 Max = 1.00, Min = 0.47, Median = 1.00
+		Positive Sentiment: Average = 0.07, Max = 0.45, Min = 0.00, Median = 0.00

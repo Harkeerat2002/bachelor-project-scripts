@@ -47,6 +47,10 @@ The code can be found in `search_relevance.ipynb` notebook. Along with that the 
 - `search_results.py`
 - `search_results.csv`
 
+## Results:
+
+All the results are stored under the directory `results`. 
+
 ## Python Libraries Needed:
 I am using Python 3.8.5. With Python installed, I am using Conda to manage the environment. The following libraries are needed to run the scripts:
 ```bash
