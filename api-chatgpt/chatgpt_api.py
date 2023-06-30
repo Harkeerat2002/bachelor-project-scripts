@@ -2,7 +2,7 @@ import openai
 import csv
 
 # Set the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 def chatgpt_api():
     # Read the queries from the file
