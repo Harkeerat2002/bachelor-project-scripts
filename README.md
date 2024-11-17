@@ -1,4 +1,4 @@
-# Bachelor Project Scripts
+# Google Search vs. Conversational AI: A Comparative Analysis
 ***Harkeerat Singh Sawhney***
 
 ## Introduction
